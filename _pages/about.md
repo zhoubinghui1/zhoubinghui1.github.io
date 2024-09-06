@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## 个人简介
 我是一名来自福州大学计算机与大数据学院的大三学生。目前我已经掌握了C语言编程的基础，未来希望能够学习更多的专业知识，提升自己的技术水平。
 
